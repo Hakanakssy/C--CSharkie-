@@ -21,10 +21,13 @@ namespace Name
             
             // long k=5; //8 byte
             // ulong l=5;//8 byte
+
             // //reel numbers
+
             // float m=5; // 4 byte
             // decimal n=5.0; //16 byte
             // double o=5.2; // 8byte
+            
             // //strings
             // char z='2'; // 2 byte
             // string v ="Zikriye"; //Sınırsız

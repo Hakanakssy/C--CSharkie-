@@ -1,0 +1,15 @@
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\bin\Debug\net7.0\type_convertions.exe
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\bin\Debug\net7.0\type_convertions.deps.json
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\bin\Debug\net7.0\type_convertions.runtimeconfig.json
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\bin\Debug\net7.0\type_convertions.dll
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\bin\Debug\net7.0\type_convertions.pdb
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\type_convertions.csproj.AssemblyReference.cache
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\type_convertions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\type_convertions.AssemblyInfoInputs.cache
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\type_convertions.AssemblyInfo.cs
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\type_convertions.csproj.CoreCompileInputs.cache
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\type_convertions.dll
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\refint\type_convertions.dll
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\type_convertions.pdb
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\type_convertions.genruntimeconfig.cache
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\type_convertions\obj\Debug\net7.0\ref\type_convertions.dll
