@@ -1,0 +1,46 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "deneme",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/deneme/bin/Debug/net7.0/deneme.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/deneme",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "operators",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/operators/bin/Debug/net7.0/operators.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/operators",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "type_convertions",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/type_convertions/bin/Debug/net7.0/type_convertions.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/type_convertions",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}

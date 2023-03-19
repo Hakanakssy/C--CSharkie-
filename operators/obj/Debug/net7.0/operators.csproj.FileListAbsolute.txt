@@ -1,0 +1,15 @@
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\bin\Debug\net7.0\operators.exe
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\bin\Debug\net7.0\operators.deps.json
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\bin\Debug\net7.0\operators.runtimeconfig.json
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\bin\Debug\net7.0\operators.dll
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\bin\Debug\net7.0\operators.pdb
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\operators.csproj.AssemblyReference.cache
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\operators.AssemblyInfoInputs.cache
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\operators.AssemblyInfo.cs
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\operators.dll
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\refint\operators.dll
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\operators.pdb
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\operators.genruntimeconfig.cache
+C:\Users\holig\OneDrive\Belgeler\Vscode\C#(CSharkie)\operators\obj\Debug\net7.0\ref\operators.dll
